@@ -1,6 +1,10 @@
 # gcp-ml-certification
 A study guide for preparing for the GCP Professional Machine Learning Certification in one week or less.
 
+# Medium Blog
+
+[Cracking the GCP Certified Professional Machine Learning Engineer Exam in a Week](https://medium.com/@furcifer/cracking-the-gcp-certified-professional-machine-learning-engineer-exam-in-a-week-966890073adf)
+
 # 7-Day Plan
 
 * **Day 1-2**: Start by skimming through **"Journey to Become a Google Cloud Machine Learning Engineer: Build the mind and hand of a Google Certified ML professional"** on the first day. Highlight sections you're less familiar with. On the second day, focus on reading these marked sections. This book provides a broad overview of GCP, ML, and how ML works in GCP. It's a great starting point, but it won't be enough for exam preparation on its own.
